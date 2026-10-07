@@ -25,4 +25,8 @@ D.A.M/
             ├── E2.java  → Serie y suma de números cuadrados
             ├── E3.java  → Contador de vocales y sustitución de caracteres
             ├── E4.java  → Comprobación de números perfectos
-            └── E5.java  → Sucesión de Fibonacci
+            ├── E5.java  → Sucesión de Fibonacci
+            ├── E6.java  → Imprimir árbol de n altura
+            ├── E7.java  → Conjetura de Collatz
+            ├── E8.java  → Mayúsculas ⇄ Minúsculas
+            └── E9.java  → Calculadora
