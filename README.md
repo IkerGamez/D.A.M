@@ -5,7 +5,7 @@ D.A.M/
 │
 └── 📂 Programacion/
     │
-    └── 📂 Unidad 1/
+    ├── 📂 Unidad 1/
     │   │
     │   ├── 📂 Examen 1/
     │   │   └── Programa de menú: estadísticas de edades y contador de vocales/consonantes
@@ -42,6 +42,6 @@ D.A.M/
             ├── E7.java  → Comparación de arrays y búsqueda de coincidencias
             ├── E8.java  → Registro de puntuaciones y clasificación de jugadores
             ├── E9.java  → Registro y análisis de ventas de varias tiendas
-            └── E10.java → Gestión de alumnos, calificaciones y estadísticas
+            ├── E10.java → Gestión de alumnos, calificaciones y estadísticas
             └── TBC.java → Simulador de combate por turnos
 
